@@ -1,0 +1,2 @@
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dmrv202\WeighingScaleEmulator\bin\Release\netcoreapp3.1\publish\WeighingScaleEmulator.pdb
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dmrv202\WeighingScaleEmulator\bin\Release\netcoreapp3.1\publish\WeighingScaleEmulator.exe
